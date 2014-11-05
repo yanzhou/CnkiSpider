@@ -1,3 +1,11 @@
+##bug报告
+
+1. issue
+2. pull request
+3. 联系 颜登程<yanzhou@mail.ustc.edu.cn>
+
+##使用说明
+
 1. 在src/CnkiSpider.py设置检索条件
 
 2. 执行src/CnkiSpider.py抓取数据
@@ -18,7 +26,7 @@
 
 10. 如果数据文件中从某部分开始大量出现关键词字段和分类号字段为空的情况，则将src/CnkiSpider.py中restEvery变量调小，restPeriod变量调大后重试。
 
-## diff Windows version and Linux version
+## windows下和linux下使用需要修改的地方
 
 CnkiSpider.py        print "----CONTENT:获取第" + str(article["order"]) + "篇文章"
 

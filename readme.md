@@ -1,10 +1,12 @@
-##bug报告
+**Deprecated**
+
+## bug报告
 
 1. issue
 2. pull request
 3. 联系 颜登程<yanzhou@mail.ustc.edu.cn>
 
-##使用说明
+## 使用说明
 
 1. 在src/CnkiSpider.py设置检索条件
 
